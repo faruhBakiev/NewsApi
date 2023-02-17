@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/everythingFragment2"
+        android:icon="@drawable/news_icon"
+        android:title="Everything" />
+    <item
+        android:id="@+id/topHeadlinesFragment2"
+        android:icon="@drawable/bitcoin_icon"
+        android:title="Sources" />
+    <item
+        android:id="@+id/sourcesFragment2"
+        android:icon="@drawable/news_icon"
+        android:title="Top headlines" />
+</menu>
